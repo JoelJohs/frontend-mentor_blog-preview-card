@@ -1,6 +1,4 @@
-# Frontend Mentor - Recipe page solution
-
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm).
+# Frontend Mentor
 
 ## Overview
 
@@ -11,8 +9,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [GitHub]()
-- Live Site URL: [GitHub Pages]()
+- Solution URL: [GitHub](https://github.com/JoelJohs/frontend-mentor_blog-preview-card)
+- Live Site URL: [GitHub Pages](https://joeljohs.github.io/frontend-mentor_blog-preview-card/)
 
 ## My process
 
