@@ -55,6 +55,11 @@ body {
   }
 }
 
+.title:hover {
+  color: var(--yellow);
+  cursor: pointer;
+}
+
 .card img {
   border-radius: 10px;
   width: 100%;
